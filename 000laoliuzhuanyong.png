@@ -2033,40 +2033,6 @@ CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000
 法治天地,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 
-国际频道,#genre#
-
-BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-CNN,https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-Al Jazerra,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-FoxNewsNow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-One American News,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-Ted Talks,https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
-Mytime,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-ION Plus,https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
-LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-Ondemand China,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-
 💝香港澳门,#genre#
 //01香港卫视集团拥有6个卫星频道和1个网络电视台 香港卫视精品台也已开播，科教台、文化台正在积极筹备中。
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -4913,6 +4879,123 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 垫江综合,http://125.62.24.185:80/1.m3u8
+﻿台湾电视剧,#genre#
+101 琅琊榜,https://www.ofiii.com/channel/watch/ofiii101
+102 扶搖,https://www.ofiii.com/channel/watch/ofiii102
+105 芈月傳,https://www.ofiii.com/channel/watch/ofiii105
+106 軍師聯盟,https://www.ofiii.com/channel/watch/ofiii106
+107 軍師聯盟2 虎嘯龍吟,https://www.ofiii.com/channel/watch/ofiii107
+108 東宮(完整版),https://www.ofiii.com/channel/watch/ofiii108
+109 錦衣之下,https://www.ofiii.com/channel/watch/ofiii109
+110 楚喬傳,https://www.ofiii.com/channel/watch/ofiii110
+111 倚天屠龍記 2019,https://www.ofiii.com/channel/watch/ofiii111
+112 風起西州,https://www.ofiii.com/channel/watch/ofiii112
+115 三十而已,https://www.ofiii.com/channel/watch/ofiii115
+116 去有風的地方,https://www.ofiii.com/channel/watch/ofiii116
+117 以愛為營,https://www.ofiii.com/channel/watch/ofiii117
+118 向風而行,https://www.ofiii.com/channel/watch/ofiii118
+119 以家人之名,https://www.ofiii.com/channel/watch/ofiii119
+12 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
+120 我們的翻譯官,https://www.ofiii.com/channel/watch/ofiii120
+121 流光之下,https://www.ofiii.com/channel/watch/ofiii121
+122 鱷魚與牙籤鳥,https://www.ofiii.com/channel/watch/ofiii122
+123 裝腔啟示錄,https://www.ofiii.com/channel/watch/ofiii123
+124 無與倫比的美麗,https://www.ofiii.com/channel/watch/ofiii124
+126 豬哥壹級棒,https://www.ofiii.com/channel/watch/ofiii126
+127 小明星大跟班,https://www.ofiii.com/channel/watch/ofiii127
+128 食尚玩家-2天1夜gohttps://www.ofiii.com/channel/watch/ofiii128
+129 WTO姐妹會,https://www.ofiii.com/channel/watch/ofiii129
+13 公視金獎台,https://www.ofiii.com/channel/watch/ofiii13
+130 綜藝玩很大,https://www.ofiii.com/channel/watch/ofiii130
+131 全民星攻略,https://www.ofiii.com/channel/watch/ofiii131
+132 台灣1001個故事,https://www.ofiii.com/channel/watch/ofiii132
+133 台灣啟示錄,https://www.ofiii.com/channel/watch/ofiii133
+134 法眼黑與白,https://www.ofiii.com/channel/watch/ofiii134
+135 天才衝衝衝,https://www.ofiii.com/channel/watch/ofiii135
+136 詹姆士出走料理,https://www.ofiii.com/channel/watch/ofiii136
+137 食尚玩家-魚肉鄉民,https://www.ofiii.com/channel/watch/ofiii137
+138 世界第一等,https://www.ofiii.com/channel/watch/ofiii138
+139 進擊的台灣,https://www.ofiii.com/channel/watch/ofiii139
+14 好消息2台,https://www.ofiii.com/channel/watch/litv-ftv17
+142 一字千金,https://www.ofiii.com/channel/watch/ofiii142
+143 11點熱吵店,https://www.ofiii.com/channel/watch/ofiii143
+147 百年新娘,https://www.ofiii.com/channel/watch/ofiii147
+148 頭腦共助,https://www.ofiii.com/channel/watch/ofiii148
+149 朝鮮律師,https://www.ofiii.com/channel/watch/ofiii149
+15 好消息,https://www.ofiii.com/channel/watch/litv-ftv16
+151 包青天 1993版,https://www.ofiii.com/channel/watch/ofiii151
+152 我的婆婆怎麼那麼可愛,https://www.ofiii.com/channel/watch/ofiii152
+153 村裡來了個暴走女外科,https://www.ofiii.com/channel/watch/ofiii153
+154 一把青,https://www.ofiii.com/channel/watch/ofiii154
+155 茶金,https://www.ofiii.com/channel/watch/ofiii155
+156 四樓的天堂,https://www.ofiii.com/channel/watch/ofiii156
+157 俗女養成記,https://www.ofiii.com/channel/watch/ofiii157
+159 雖然等級只有1級但固有技能是最強的,https://www.ofiii.com/channel/watch/ofiii159
+160 擁有超常技能的異世界流浪美食家,https://www.ofiii.com/channel/watch/ofiii160
+161 香格里拉・開拓異境~糞作獵手挑戰神作~,https://www.ofiii.com/channel/watch/ofiii161
+162 在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～,https://www.ofiii.com/channel/watch/ofiii162
+163 第一神拳,https://www.ofiii.com/channel/watch/ofiii163
+164 刀劍神域(中文版),https://www.ofiii.com/channel/watch/ofiii164
+165 蠟筆小新(中文版),https://www.ofiii.com/channel/watch/ofiii165
+166 我們這一家,https://www.ofiii.com/channel/watch/ofiii166
+167 獵人(中文版),https://www.ofiii.com/channel/watch/ofiii167
+168 中華一番(中文版),https://www.ofiii.com/channel/watch/ofiii168
+169 隊長小翼(中文版),https://www.ofiii.com/channel/watch/ofiii169
+170 SPY X FAMILY 間諜家家酒,https://www.ofiii.com/channel/watch/ofiii170
+171 SPY X FAMILY 間諜家家酒(中文版),https://www.ofiii.com/channel/watch/ofiii171
+172 無職轉生，到了異世界就拿出真本事,https://www.ofiii.com/channel/watch/ofiii172
+173 關於我轉生變成史萊姆這檔事(國),https://www.ofiii.com/channel/watch/ofiii173
+174 夏目友人帳,https://www.ofiii.com/channel/watch/ofiii174
+175 家庭教師HITMAN REBORN!(中文版),https://www.ofiii.com/channel/watch/ofiii175
+176 烘焙王(中文版),https://www.ofiii.com/channel/watch/ofiii176
+177 鋼之鍊金術師,https://www.ofiii.com/channel/watch/ofiii177
+178 JOJO 的奇妙冒險,https://www.ofiii.com/channel/watch/ofiii178
+179 葬送的芙莉蓮,https://www.ofiii.com/channel/watch/ofiii179
+180 電動車時代,https://www.ofiii.com/channel/watch/ofiii180
+181 SiCAR愛車酷,https://www.ofiii.com/channel/watch/ofiii181
+192 生命的贏家,https://www.ofiii.com/channel/watch/ofiii192
+20 ELTV生活英語台,https://www.ofiii.com/channel/watch/litv-longturn20
+201 大新聞大爆卦,https://www.ofiii.com/channel/watch/ofiii201
+202 新聞大白話,https://www.ofiii.com/channel/watch/ofiii202
+203 文茜的世界周報,https://www.ofiii.com/channel/watch/ofiii203
+204 寰宇全視界,https://www.ofiii.com/channel/watch/ofiii204
+21 龍華卡通台,https://www.ofiii.com/channel/watch/litv-longturn01
+22 哆啦Ａ夢台,https://www.ofiii.com/channel/watch/ofiii22
+31 TVBS食尚玩家,https://www.ofiii.com/channel/watch/ofiii31
+32 東森娛樂台,https://www.ofiii.com/channel/watch/ofiii32
+36 中天亞洲精采台,https://www.ofiii.com/channel/watch/ofiii36
+37 Smart知識台,https://www.ofiii.com/channel/watch/litv-longturn19
+40 龍華戲劇台,https://www.ofiii.com/channel/watch/litv-longturn18
+41 台灣戲劇台,https://www.ofiii.com/channel/watch/litv-longturn22
+43 東森購物1台,https://www.ofiii.com/channel/watch/4gtv-4gtv102
+45 龍華偶像台,https://www.ofiii.com/channel/watch/litv-longturn12
+46 龍華日韓台,https://www.ofiii.com/channel/watch/litv-longturn11
+47 Yes娛樂,https://www.ofiii.com/channel/watch/ofiii47
+48 Focus風采戲劇台,https://www.ofiii.com/channel/watch/ofiii1048
+49 東森購物2台,https://www.ofiii.com/channel/watch/4gtv-4gtv103
+50 掏掏新聞,https://www.ofiii.com/channel/watch/ofiii50
+52 華視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv052
+54 三立新聞iNEWS,https://www.ofiii.com/channel/watch/iNEWS
+59 台視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv051
+60 中視新聞,https://www.ofiii.com/channel/watch/4gtv-4gtv074
+61 中天新聞台,https://www.ofiii.com/channel/watch/4gtv-4gtv009
+63 寰宇新聞台,https://www.ofiii.com/channel/watch/litv-longturn14
+64 第1財經,https://www.ofiii.com/channel/watch/ofiii64
+65 第1商業台,https://www.ofiii.com/channel/watch/4gtv-4gtv104
+66 國會頻道1台,https://www.ofiii.com/channel/watch/4gtv-4gtv084
+67 國會頻道2台,https://www.ofiii.com/channel/watch/4gtv-4gtv085
+69 龍華經典台,https://www.ofiii.com/channel/watch/litv-longturn21
+71 龍華電影台,https://www.ofiii.com/channel/watch/litv-longturn03
+73 周星馳台,https://www.ofiii.com/channel/watch/ofiii73
+74 歐飛電影台,https://www.ofiii.com/channel/watch/ofiii74
+75 歐飛喜劇電影台,https://www.ofiii.com/channel/watch/ofiii75
+8 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
+82 Focus探索新知台,https://www.ofiii.com/channel/watch/ofiii82
+95 Freeman @台灣,https://www.ofiii.com/channel/watch/ofiii95
+96 饕客揪愛吃,https://www.ofiii.com/channel/watch/ofiii96
+97 人氣動漫預告,https://www.ofiii.com/channel/watch/ofiii97
+99 銀髮聚樂部,https://www.ofiii.com/channel/watch/ofiii99
+parse=1
 
 阿杜,#genre#
 阿爸的勒勒车,http://em.21dtv.com/songs/60163603.mkv
@@ -34627,7 +34710,6 @@ Kiss Me,http://em.21dtv.com/songs/60164708.mkv
 祝你健康,http://em.21dtv.com/songs/60084591.mkv
 自由奔跑,http://em.21dtv.com/songs/60104450.mkv
 在这路上,http://em.21dtv.com/songs/60122718.mkv
-
 韩国女团,#genre#
 韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
@@ -34818,4 +34900,515 @@ Kiss Me,http://em.21dtv.com/songs/60164708.mkv
 韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+国际频道,#genre#
 
+BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+CNN,https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+Al Jazerra,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+FoxNewsNow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+One American News,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Kids TV,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+Ted Talks,https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Mytime,https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+ION Plus,https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+LoveStories,https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+Ondemand China,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+✨MTV频道,#genre#
+69: 纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
+74: 下山,https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+79: 杀阡陌,https://vdse.bdstatic.com/17014878933308f5eb81b2a9d98783d8.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+80: 只问你肯不肯,https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+81: 如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+82: 孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost
+83: 风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+86: 你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+87: 你若三冬,https://vdse.bdstatic.com/865b4e81a729189fcafe910104151a75.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+88: 站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A33Z%2F-
+89: 降央卓玛：这几首歌曲太动听FHD[1860*1080],https://vdse.bdstatic.com//0ce1279c88ff9ab48f48d4e86860cd46.mp4
+162: 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4
+167: 一念一年,https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+168: 《窗外》《同桌的你》《心太软》《心雨》《小芳》FHD[1920*1080],https://vdse.bdstatic.com//97183ae857df5213fcfaf0fabc18efc3.mp4
+169: 《天路》《驼铃》《鸿雁》《九儿》《绒花》《小芳》[1920*1080],https://vdse.bdstatic.com//e4b7325ebf3010673a51a24f948a8a97.mp4
+170: 《驼铃》《卓玛》《天边》《鸿雁》《天路》草原歌曲[1920*1080],https://vdse.bdstatic.com//f8f4740a4ca7ff31c3a2d8386fc14598.mp4
+171: 毛宁《涛声依旧》《晚秋》《心雨》《春风吻上我的脸》《大中国》[1920*1080],https://vdse.bdstatic.com//21736d388636d7648510b2a36fc7cbfd.mp4
+172: 山歌《阿里山的姑娘》《康定情歌》《山路十八弯》《敖包相会》[1920*1080],https://vdse.bdstatic.com//ae82f5b93166f47d85ff12124a021323.mp4
+173: 《涛声依旧》《雾里看花》《窗外》《心雨》《听心》《晚秋》《母亲》[1920*1080],https://vdse.bdstatic.com//db8ba0fda2aad9cb15aa32887a160f06.mp4
+174: 刀郎经典老歌《手心里的温柔》《西海情歌》《披着羊皮的狼》HD[1280*720],https://vdse.bdstatic.com//2f53687e421524efba9ba2b528f7bd12.mp4
+175: 粤语和华语经典歌曲【完整版】,https://vdse.bdstatic.com//2922763f303705ef65c46689578439ea.mp4
+176: 《给我一把爱情火》《无情风雨无情的你》《昨夜的我又梦到了你》HD,https://vdse.bdstatic.com//63a770491e7bae0ebe661452c27eaf33.mp4
+177: 经典粤语歌曲《上海滩》《铁血丹心》《神情神话》《沧海一声笑》HD,https://vdse.bdstatic.com//f9cda7e70273c267b61a3d0c969d2033.mp4
+214: DJ音乐27,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
+216: DJ音乐31,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
+219: DJ音乐37,https://vdse.bdstatic.com//fbbd25c517d1ba56b3ecbfb16c27d7e9.mp4
+221: DJ音乐39,https://vdse.bdstatic.com//cdc81b17fdaf07c73eb464fd55d52491.mp4
+228: DJ音乐51,https://vdse.bdstatic.com//f1aee7ea7f31afbe48e891783d8ba819.mp4
+229: DJ音乐52,https://vdse.bdstatic.com//195039d170345f5e627e4a58814cbf30.mp4
+243: DJ 洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
+263: 车载DJ舞曲,https://vdse.bdstatic.com//7002925e04c4c451cfa8aafc9b4190c7.mp4
+264: 七首DJ情歌,https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
+265: 2021最佳伤感情歌,https://vdse.bdstatic.com//59c5abc138bf1da5585bb765c530137e.mp4
+266: 2021伤感洗脑神曲,https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
+267: 2021最好听情歌HD[1280*720],https://vdse.bdstatic.com//e668900af1d683c1f8762c1184d516d3.mp4
+276: 2021年最好听的DJ串烧,https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
+277: 2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
+278: 2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
+279: 几首比较火的DJ情歌,https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
+280: 经典老歌DJ版精选六首,https://vdse.bdstatic.com//f203048340fe15016fbec9a72905680d.mp4
+282: 串烧DJ,https://vdse.bdstatic.com//0da62389c4eb7668570f9d0c78eedfee.mp4
+289: 音乐520[1920*1080],https://vdse.bdstatic.com//7b2f1b020851df0037ed7b5013a8887d.mp4
+291: 超强车载重音乐[1280*720],https://vdse.bdstatic.com//be2987198eb242f59daaea05ac1d95ee.mp4
+293: 蹦迪DJ[1272*720],https://vdse.bdstatic.com//e94b56d691d790f43b6dad9969c98af9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-03-08T16%3A50%3A57Z%2F-1%2Fhost%2Fde133e984bd8cc25dc90226c07060de2d0e7e5cf54cebf13db588c88b2a3aa50
+294: DJ[1280*720],https://vdse.bdstatic.com//89125075c8eff065022858f7ab9f45ac.mp4
+301: 网络金曲,https://vdse.bdstatic.com//c2deba4d320384736569e542ac531aff.mp4
+302: 情歌DJ,https://vdse.bdstatic.com//4eece717c6cc2fb9086a59a13ce30623.mp4
+309: 车载DJ视频6,https://vdse.bdstatic.com//7e9d2da860d4ac39c0ea86502360d6fe.mp4
+335: 车载DJ《今夜为你醉...》,https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4
+336: 抖音热歌《大风吹+夜夜夜漫长》,https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
+338: 《爱难求情难断…》,https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4
+339: 【经典老歌】DJ《精选8首》,https://vdse.bdstatic.com//200ab148a9e867ad29f5fda4ac175305.mp4
+340: 【老歌DJ版】《精选8首》,https://vdse.bdstatic.com//525174705415c8773bd465ce4b88b18d.mp4
+341: 2021《精选5首酒吧DJ舞曲》,https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
+342: 好歌分享《精选6首伤感DJ舞曲》HD[1280*720],https://vdse.bdstatic.com//0c87c8977d0a33498fe7362d3c60c22c.mp4
+343: 《拈花一笑》《对面的小姐姐》,https://vdse.bdstatic.com//7cfaf27a4db89583e069a40fbc2ed84b.mp4
+345: 情歌DJ《怎么可以如此冷血》,https://vdse.bdstatic.com//61e318ea76e984f2bedb66f1ed1583be.mp4
+346: DJ情歌串烧《痴情恋歌》,https://vdse.bdstatic.com//904548e7bec804905906557ed2752017.mp4
+347: 动听DJ情歌《红颜知己》,https://vdse.bdstatic.com//92d49c2aebc0bbbe08149b8e08e4a443.mp4
+348: DJ伤感好听《红颜知己,https://vdse.bdstatic.com//1a7b05ab4eab2d68a679e442f4d80fab.mp4
+354: DJ舞曲,https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
+379: 刀郎经典歌曲,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
+380: 刀郎经典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
+381: 刀郎经典老歌合集披着羊皮的狼》西海情歌》冲动的惩罚》HD,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
+382: 邓丽君歌曲精选九首经典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
+383: 怀旧金曲:刀郎黄玫瑰,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
+384: 几首绝美情歌DJ精选,https://vdse.bdstatic.com//c5c64b60c9fdfbdfa3e959bb1d56c4b0.mp4
+385: 精选韩宝仪经典歌曲10首,https://vdse.bdstatic.com//42d5ac65a9070eeab2513bf6bc65ea4d.mp4
+386: 林翠萍负心的你,https://vdse.bdstatic.com//16425f9f93e382e23bcde71f8ed85a4c.mp4
+387: 林翠萍麦搁來这套》HD,https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
+388: 林翠萍经典老歌相会在梦里,https://vdse.bdstatic.com//00fb72cd0b27bec6d9c0cd915874b50e.mp4
+389: 林翠萍经典情歌相思豆,https://vdse.bdstatic.com//986498bb0ccd2114ba1274df22fae332.mp4
+390: 龙飘飘歌声恋情,https://vdse.bdstatic.com//552f15ac34dc97bdb3cc7725cd0a0aa4.mp4
+391: 龙飘飘往事,https://vdse.bdstatic.com//a28e362e15fa8c361219944bfb59b596.mp4
+392: 龙飘飘我没醉,https://vdse.bdstatic.com//3d48e45e47836cd75c202ec957260837.mp4
+394: 美酒加咖啡龙飘飘,https://vdse.bdstatic.com//816c73543ede254586a625cacc67ea0f.mp4
+395: 情歌皇后林翠萍相见不如不见,https://vdse.bdstatic.com//1f65ad884619a069c68572f1ac9e2b0e.mp4
+397: 云朵、刀郎、孙露、张雨生等经典怀旧歌曲6首HD,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
+翻唱闽南歌曲 今生一段情,https://vd3.bdstatic.com/mda-mhgvnyaj4qxpbvvy/720p/h264/1629233898591836788/mda-mhgvnyaj4qxpbvvy.mp4
+翻唱闽南歌曲 被情所困,https://vd3.bdstatic.com/mda-kfv7s0d2e3izvez3/v1-cae/sc/mda-kfv7s0d2e3izvez3.mp4
+翻唱闽南歌曲 感情有靠岸,https://vd3.bdstatic.com/mda-khqvm1hwdfg1tehr/v1-cae/sc/mda-khqvm1hwdfg1tehr.mp4
+2021年网络火爆伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
+花都开了你来不来DJ,https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4
+精选dj,https://vd3.bdstatic.com/mda-mm68drt808w1nins/720p/h264/1638861890075163680/mda-mm68drt808w1nins.mp4
+六首伤感DJ舞曲《为爱受尽相思罪》《爱过了头心伤透》,https://vdse.bdstatic.com//f27d59d8b75915e122f53c173e27a32e.mp4
+张也《望星空/为了谁/人间第一情/红梅赞/高天上流云》,https://vdse.bdstatic.com//038c6250208e42b9427a885e0370e1a2.mp4
+【粤语老歌】《千千阙歌》《初恋情人》《漫步人生路》等,https://vdse.bdstatic.com//06c6164d2434f16bca0da3e4d37c06b5.mp4
+2021火爆女生版伤感DJ情歌,https://vdse.bdstatic.com//8fe197e92568201d4899dfd3d94585a7.mp4
+让人陶醉的几首DJ舞曲,https://vdse.bdstatic.com//0f464b2beaf5887f90ac36b68fcd342f.mp4
+车震一小时,http://gcw.bdcdn.shoujiduoduo.com/201805/0748-641.mp4
+2021爆红《6首女生版伤感DJ》,https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
+美人热舞洗脑DJ舞曲,https://vdse.bdstatic.com//3700f6b78ceaf0f4a5313f4d68c95b72.mp4
+2021五首女声伤感DJ情歌精品,https://vdse.bdstatic.com//c92e81328ef6d13ba7d44e6eb80f9f1e.mp4
+DJ劲爆舞曲《在我心里有个你》《东南西北风》《一万个对不起》等,https://vdse.bdstatic.com//8343b02f5e7465d4c5b07e54403438b8.mp4
+DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等,https://vdse.bdstatic.com//09b76fc9762763350288fb96047ec820.mp4
+刀郎经典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
+《来生再去拥抱你》《梨花飞情人泪》《落雨的秋》《梦醉荷塘》,https://vdse.bdstatic.com//d5e3237c7ef186217ea1c9b24d58e2ae.mp4
+宇宁《千里江山（大型纪录片《紫禁城》主题歌,https://vdse.bdstatic.com//688046e42c39cf6585106f945e2798e7.mov
+苍天不负有情人,https://vd3.bdstatic.com/mda-jm5iqyuj8bapffdb/hd/mda-jm5iqyuj8bapffdb.mp4
+我用自己的方式爱你,http://vdown.kuwo.cn:80/resource/t1/46/26af4a23c9e04725bd1dc491b662f386.mp4
+徐佳莹-旅行的意义(演唱会),http://em.21dtv.com/songs/60076514.mkv
+旭日阳刚-老乡见老乡,http://em.21dtv.com/songs/60076356.mkv
+朱咪咪+叶振棠-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60027329.mkv
+朱咪咪-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60027330.mkv
+尹光+吕有慧-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60061366.mkv
+林子祥+谢安琪-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60076405.mkv
+罗敏庄+黄日华-两忘烟水里(演唱会),http://em.21dtv.com/songs/60076435.mkv
+张学友+许慧欣-流星下的愿(演唱会),http://em.21dtv.com/songs/60027735.mkv
+高向鹏-老兄行酒楼(演唱会),http://em.21dtv.com/songs/60026442.mkv
+谭咏麟+李克勤-理想与和平(演唱会),http://em.21dtv.com/songs/60026892.mkv
+谭咏麟-理想与和平(演唱会),http://em.21dtv.com/songs/60026893.mkv
+徐小凤-流下眼泪前(演唱会),http://em.21dtv.com/songs/60027719.mkv
+许冠文-流下眼泪前(演唱会),http://em.21dtv.com/songs/60027720.mkv
+莫旭秋-良夜不能留(演唱会),http://em.21dtv.com/songs/60027173.mkv
+杨坤-里约热内卢(演唱会),http://em.21dtv.com/songs/60026879.mkv
+杨坤+人声兄弟-里约热内卢,http://em.21dtv.com/songs/60113670.mkv
+关淑怡-恋一世的爱(演唱会),http://em.21dtv.com/songs/60027152.mkv
+梅艳芳-留住你今晚(演唱会),http://em.21dtv.com/songs/60027592.mkv
+张伟文-漫步人生路(演唱会),http://em.21dtv.com/songs/60028563.mkv
+邓丽君-漫步人生路,http://em.21dtv.com/songs/60028564.mkv
+黄日华+戚美珍-漫步人生路,http://em.21dtv.com/songs/60068459.mkv
+刘德华-漫步人生路,http://em.21dtv.com/songs/60070906.mkv
+谢霆锋-魔鬼的主意(演唱会),http://em.21dtv.com/songs/60030344.mkv
+草蜢-宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
+王菲-容易受伤的女人(国语),http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+王菲-爱与痛的边缘,http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
+叶倩文-潇洒走一回,http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
+吕方-多爱你一天,http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8
+梁朝伟-一天一天爱恋,http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
+叶倩文-我的爱对你说,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
+彭佳慧-回味,http://vodcdn.video.taobao.com/oss/ali-video/6801f707771eacdb5264f8bb20e4d599/video.m3u8
+裘正海-爱你十分泪七分,http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
+誓言-求佛,http://vodcdn.video.taobao.com/oss/ali-video/f4f761d970399f186ce1f9ac6d009721/video.m3u8
+许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
+陈明真-念念不忘的情人,http://vodcdn.video.taobao.com/oss/ali-video/a4e5b03f0ce8a9b20cea95e6ff3ce25a/video.m3u8
+周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
+张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
+任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
+艾歌-一生中最爱的人,http://vodcdn.video.taobao.com/oss/ali-video/7506ddfc8f692a7cda1b2ef73531f78b/video.m3u8
+陈明真-为爱笑着流泪,http://vodcdn.video.taobao.com/oss/ali-video/4f31a4692aae0974dbc82a95d23339f4/video.m3u8
+光良-第一次,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
+梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
+周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
+周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
+李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
+王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
+陈明真-情债,http://vodcdn.video.taobao.com/oss/ali-video/99c8f1df6d5686d99e4adc1e6caed7b7/video.m3u8
+王麟-伤不起,http://vodcdn.video.taobao.com/oss/ali-video/1e3633ff1c3a525e148968b45c18f780/video.m3u8
+龙梅子-泪满天,http://vodcdn.video.taobao.com/oss/ali-video/2ea2890443421f58665a7fdf0a297265/video.m3u8
+李圣杰-痴心绝对,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
+张惠妹-别在伤口撒盐,http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
+红尘惜痴,https://vd3.bdstatic.com/mda-jkgeu6zrmrm3aqut/mda-jkgeu6zrmrm3aqut.mp4
+假如有轮回,https://vd3.bdstatic.com/mda-kdtfii15axmmg63c/v1-cae/mda-kdtfii15axmmg63c.mp4
+李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
+桥边姑娘DJ,https://vd3.bdstatic.com/mda-kbrbs2s3i6ctzk6y/hd/mda-kbrbs2s3i6ctzk6y.mp4
+夜店DJ,https://vd3.bdstatic.com/mda-keijdsupmpiv0pbm/hd/mda-keijdsupmpiv0pbm.mp4
+劲爆DJ,https://vdse.bdstatic.com//b01518813ef433f63d7e17fd6bcbb5eb.mp4
+韩国动感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+欧美动感歌曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+澳门酒吧音乐DJ[854*480],https://vd3.bdstatic.com/mda-mkpi5r0xe92ja446/480p/h264/1637759253085791346/mda-mkpi5r0xe92ja446.mp4
+网络情歌精选DJ[854*480],https://vd3.bdstatic.com/mda-mm1eqirhmt0293u0/480p/h264/1638443831616522299/mda-mm1eqirhmt0293u0.mp4
+5首绝美情歌[854*480],https://vd3.bdstatic.com/mda-mjtb7bbvk98u8z58/480p/h264/1635409459813822543/mda-mjtb7bbvk98u8z58.mp4
+火爆DJ串烧渇望[854*480],https://vd3.bdstatic.com/mda-mkmhuih1w2cmza3u/480p/h264/1637585190624896109/mda-mkmhuih1w2cmza3u.mp4
+欧美舞曲,#genre#
+mey green、bob garcia - is this love-[86M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0LXV4gUoweaZ4AM.mp4
+kieda budini - flirt-[109M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgprXV4gUo8KbK2gc.mp4
+Justin Bieber - What Do You Mean-[110M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgurTV4gUowIKVsQY.mp4
+Jessi Malay - Do It-[68M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8bPV4gUoqt673AY.mp4
+Inna、Yandel - In Your Eyes-[62M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpbPV4gUo6JvA8wQ.mp4
+inna、eric turner - bop bop-[76M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggLPV4gUogKTq9wE.mp4
+INNA - Say It With Your Body-[73M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyLLV4gUopMv79AQ.mp4
+hilary duff - all about you-[61M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsrHV4gUogLKa4QU.mp4
+fifth harmony、kid ink - worth it-[84M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgobDV4gUourCyjwE.mp4
+fifth harmony - sledgehammer-[86M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4K-V4gUo4IWzzQE.mp4
+Dimitri Vegas &amp; Like Mike、 Ne-Yo - Higher Place-[64M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp6-V4gUozY65ngE.mp4
+desi slava、nana - cotton candy-[120M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K7V4gUo7NGmOA.mp4
+Corina Smith - La Difícil-[49M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_63V4gUog9eZoQI.mp4
+consuelo costin - body needs-[69M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6azV4gUoqPPz5AU.mp4
+ciara - i bet-[114M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw6zV4gUoloDJ5AI.mp4
+#39;re making love-[100M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg76vV4gUo8sGnOw.mp4
+Britney Spears、Tinashe - Slumber Party-[112M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgravV4gUokMeSqQU.mp4
+Beast - Freaking Cute-[107M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-KrV4gUo-6nFbw.mp4
+Ariana Grande - Side To Side-[119M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzKrV4gUoisbKkQM.mp4
+Ariana Grande - Dangerous Woman-[59M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgoqrV4gUo8IG_SA.mp4
+alyxx dione、jason derulo - chingalinga-[99M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg86nV4gUo5pDvzAI.mp4
+推荐- ANDREA - NIKOI DRUG (RAKI TRAKI) - OFFICIAL VIDEO-[98M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglajE4gUosOD54wY.mp4
+Shakira - Try Everything (疯狂动物城)电影主题曲-[67M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8abE4gUogtq22gI.mp4
+Eni Koci - Motivi Im-[92M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2qXE4gUo9obCtQU.mp4
+Anton Ewald - This Could Be Something ft. Medina-[84M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5KTE4gUo-bWn4AY.mp4
+Mihai Chitu feat DOMG - In al noualea cer-[69M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqqTE4gUo07PVsgc.mp4
+Leighton Meester - Heartstrings-[139M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8qPE4gUo09KPywI.mp4
+Jung Dong Ha - Oh! Love-[63M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx6LE4gUo4uvwwgI.mp4
+Janieck - Feel The Love (Sam Feldt Edit) -[64M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk6LE4gUo29aNpwM.mp4
+Fifth Harmony - Work from Home-[86M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv6HE4gUo972u2wE.mp4
+Z.Hera -  D island-[121M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyKvB4gUonsKPowM.mp4
+Yldz Tilbe - Oynat-[123M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk6vB4gUojID_Sg.mp4
+Temara Melek - Fingerprints-[83M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg36rB4gUoxtrMswQ.mp4
+Su Soley skender Payda- Mebbet Hayalet-[85M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2anB4gUolsuuvQc.mp4
+SKULL -  Get Rich-[128M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo6nB4gUo7LL92QY.mp4
+Foxes - Glorious-[90M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz6fB4gUostyV7gc.mp4
+#39;s To Never Growing Up -[164M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8qDB4gUogPTw7wU.mp4
+Ariana Grande - Into You-[70M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyaDB4gUolemE4QY.mp4
+Alexandra Stan - Ecoute-[56M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy6zA4gUo8K3Jvgc.mp4
+推荐-OneRepublic - Love Runs Out-[100M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgufq-4gUo3L65ew.mp4
+推荐-MIKA - Good Guys-[63M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vm-4gUohJu48AQ.mp4
+Саша Санта - Я побегу-[55M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1-S-4gUo7Pn1Fw.mp4
+Veronica Vega - Pay Me-[92M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsPO-4gUoi5vP_gM.mp4
+The Wanted - Walks Like Rihanna-[86M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi-K-4gUo4KfsjQU.mp4
+Selena Gomez - Same Old Love-[114M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl_u-4gUooMLVswQ.mp4
+Selena Gomez - Good For You (Explicit) ft. A$AP ROCKY-[69M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo_m-4gUo26uUqgU.mp4
+Reyhan Karaca - Kelebek-[85M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9OW-4gUoypijKg.mp4
+Pentatonix and Lindsey Stirling - Radioactive -[119M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5t6-4gUo3IXlrQU.mp4
+NIKITA - ВОДОПАДОМ-[102M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1ty-4gUoqtrAkAE.mp4
+Nico Vega - Beast-[97M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5ti-4gUo8bvNrwc.mp4
+#39;m In Love-[53M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-ta-4gUosJKYiQY.mp4
+Martin Solveig &amp; Sam White - +1-[72M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgztW-4gUomveQhQM.mp4
+Maroon 5 - Sugar (2015)-[192M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgotW-4gUo5InbrAM.mp4
+Mark Ronson ft. Bruno Mars - Uptown Funk-[138M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3tS-4gUo0eu28AQ.mp4
+Maná ft. Shakira - Mi verdad -[120M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrW-4gUo4LPtpAQ.mp4
+Madonna - Living For Love -[124M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggbG-4gUom4iklAM.mp4
+Lea Michele -- On My Way -[111M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7a6-4gUo-7XtpQQ.mp4
+KONGOS - Come With Me Now -[72M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsa2-4gUoyOXR1AU.mp4
+Kiesza- Hideaway -[447M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_qy-4gUos-W50gM.mp4
+Ke$ha - Tik Tok -[464M.mpg-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi6y-4gUot-uZyQU.mp4
+Justin Bieber - Love Me -[70M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggau-4gUowqq2jQY.mp4
+Hadise - Yaz Günü -[66M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3qe-4gUogMr0wAM.mp4
+Escape The Fate - One For The Money -[101M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6KO-4gUogvTumgQ.mp4
+19EIGHTY7 - Get It On -[76M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8Y2-4gUo4OD59QM.mp4
+Avril Lavigne - Give You What You Like -[84M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz4a-4gUo6YmQ0gY.mp4
+Arjun.ft.Arijit Singh.ft.Samira Koppikar - Mohabbat Barsa De -[53M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1IW-4gUowJ3Q5gI.mp4
+Birdy - Not About Angels -[66M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8IS-4gUo2vjCrgU.mp4
+Bob Sinclar - Someone Who Needs Me  -[80M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxoS-4gUoq-ys4wU.mp4
+BRIELLE - ROCKET -[106M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_4O-4gUoup_L-gM.mp4
+Carrie Underwood - Something in the Water -[150M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkIO-4gUogLjbsQE.mp4
+Charli XCX - SuperLove -[82M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4v__4gUojv39lQI.mp4
+Charli XCX - Break The Rules -[104M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsv__4gUo_KSGxAE.mp4
+Ylvis - The Fox-[101M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyJm64gUoqrbt0wc.mp4
+Miley Cyrus - Adore You-[171M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgiZS64gUo3tGm3wI.mp4
+Katy Perry《Wide Awake》-[1.08G.mov-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3PG54gUo_t-97gY.mp4
+Leona Lewis - I See You--[290M.mkv-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqe254gUohpO5LQ.mp4
+Adele - Someone Like You-[145M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt_W54gUo_7aMoQY.mp4
+Lady Gaga &amp; Machete Kills - Aura-[138M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpuO54gUo8Im93Qc.mp4
+Capital Cities - Safe And Sound (2nd Ver)-[138M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9eG54gUoxJH94AU.mp4
+Little Mix - Word Up!-[105M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-t_54gUotJKs-wc.mp4
+Imagine Dragons - Demons-[80M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9u54gUo3LSK3wQ.mp4
+泰勒·斯威夫特 - 22 -[121M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0tS34gUo8KvgzgE.mp4
+Taylor Swift - White Horse Palladia-[414M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqLm34gUo-N2b6wU.mp4
+Taylor Swift - Sparks Fly (2011)-[193M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_bi34gUo3reG7QU.mp4
+Sunrise Inc - Nina -[141M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkq_34gUo7Jy5_QQ.mp4
+Rita Ora - How We Do -[174M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0q234gUo84bPWw.mp4
+Rihanna_-_We_Found_Love-[136M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnq234gUontD48gU.mp4
+Owl City &amp; Carly Rae Jepsen - Good Time-[134M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxaq34gUohvy4pQQ.mp4
+Nicole Scherzinger - Try With Me -[156M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_6i34gUozK7Klgc.mp4
+Mylene Farmer - Lonely Lisa-[160M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgs6e34gUowc2lmgI.mp4
+Inna - Endless- [142M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtKO34gUo6tTexwU.mp4
+泰勒斯威夫特Taylor Swift - Red -[171M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgoO_24gUo-pTRsQU.mp4
+Xhensila Myrtezaj feat. Elgit Doda - LIAR-[146M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghOy24gUoqOrE4gY.mp4
+夏奇拉（Shakira）2011巴黎演唱会-哇咔哇咔 Waka Waka (This Time for Africa)-[超清现场-783M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7P_14gUosKjqpAc.mp4
+夏奇拉（Shakira）2011巴黎演唱会-She Wolf-[超清现场-584M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfu14gUo8PudLA.mp4
+阿黛尔(adele)-Someone Like You-[超清现场-413M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkayy4gUo8tSy9QE.mp4
+阿黛尔(adele)-set fire to the rain-[超清现场-366M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgm6qy4gUowM6P2Ac.mp4
+阿黛尔(adele)-Rolling in the deep-[超清现场-447M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl6my4gUohcv6swU.mp4
+#39;t You Remember-[超清现场-314M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-aey4gUotf_ntgQ.mp4
+Evanescence.-.[My.Immortal]-[超清-561M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-5qy4gUo9vieuwc.mp4
+Beyonce（碧昂丝·吉赛尔·诺斯） - Halo-[超清-210M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9Jey4gUo4LuU2wQ.mp4
+Anna.Nalick.-.[In.The.Rough]-[超清-352M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwpay4gUowr7QgAM.mp4
+Taylor Swift (泰勒·斯威夫特)-you belong with me[超清现场-1.1G.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt-yx4gUo1PHrsQY.mp4
+Taylor Swift (泰勒·斯威夫特)-we are never ever getting back together[超清现场-1.5G.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggPyx4gUo0P_XHQ.mp4
+Taylor Swift (泰勒·斯威夫特)-sparks fly[超清现场-1.6G.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt-ux4gUo_NflgAE.mp4
+Taylor Swift (泰勒·斯威夫特)-mean[超清现场-1.5G.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7fqx4gUogqXg1Ac.mp4
+Taylor Swift (泰勒·斯威夫特)-love story[超清现场-1.1G.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgofqx4gUoiPKC-QY.mp4
+OneRepublic - Counting Stars-[超清-101M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwfWx4gUotoniwAQ.mp4
+Marina and The Diamonds - Primadonna-[超清-169M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7fOx4gUouY7olwI.mp4
+Kelly Clarkson-Mr. Know It All-[超清-129M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0fKx4gUokI3tGg.mp4
+Kelly Clarkson - People Like Us-[超清-80M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpfKx4gUokNiFMQ.mp4
+Kelly Clarkson - Catch My Breath-[超清-134M.avi-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PGx4gUohJDMnQc.mp4
+Katy Perry - Roar-[超清-188M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl__x4gUowPb90AY.mp4
+Katy Perry - Firework-[超清现场-584M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwu6x4gUo_N_BpwM.mp4
+Green Day - 21 Guns-[超清-686M.mpg-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv_2x4gUowLO6pwY.mp4
+Carrie Underwood - See You Again-[超清-136M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo_ix4gUo5PWpJA.mp4
+#39;t Kill You)-[超清-155M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnuGx4gUo4PvMDA.mp4
+Owl City - When Can I See You Again-[超清-117M.avi-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqN6x4gUo086HzAc.mp4
+Kelly.Clarkson.-.[Behind.These.Hazel.Eyes]-[超清-386M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv9Wx4gUoq9fwxQQ.mp4
+Ciline Dion- My heart will go on（中文字幕）-[高清现场-355M.mkv-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2J2x4gUoou-alQI.mp4
+Beyonce.Knowles-Halo-[高清现场-217M.mkv-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpZyx4gUokPbA8wE.mp4
+Rihanna - Diamonds-[超清现场-427M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6N6w4gUo3oXE8gU.mp4
+Pixie Lott - All About Tonight MUCHHD-[超清-300M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9d2w4gUojPGomQY.mp4
+Madonna - Girls Gone Wild-[超清-252M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+Lee Ann Womack – I May Hate Myself In The Morning-[超清-416M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmtyw4gUo942cqwE.mp4
+Green Day - Boulevard Of Broken Dreams -[超清-318M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3tmw4gUo6tLDmAE.mp4
+Carly Rae Jepsen - Call Me Maybe -[超清-316M.ts-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyoHrhQYoytz3Cw.mp4
+夏奇拉-Shakira Ft. Pitbull - Rabiosa-[超清-240M.m2ts.-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgppuv4gUo5qiRxQM.mp4
+Jason Derulo - Breathing -[102M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3euu4gUoiIGFnwQ.mp4
+布兰妮－Britney Spears - Till The World Ends -[171M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2oOt4gUo1ObZtQc.mp4
+节奏超棒欧美ＭＶ-卡莉·蕾·吉普森 - Curiosity-[72M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgq4Ot4gUo_JS5jgI.mp4
+贾斯汀·比伯－Beauty And A Beat-[209M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4-6s4gUo9Obd_QE.mp4
+欧美大气摇滚MV-Within Temptation - Faster-[119M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0v2s4gUomJrUiAY.mp4
+夏奇拉 - Loca-[140M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2eCs4gUo6InosQQ.mp4
+超嗨摇滚MV-Within Temptation - Sinead-[115M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzt2s4gUoxPKCmgI.mp4
+布兰妮-Britney Spears-Criminal-[127M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg79ys4gUoovb4mAQ.mp4
+欧美空灵抒情ＭＶ－Arash feat. Helena - Broken Angel－[98M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj9ms4gUo9taBtAU.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpMuw6AUoroLfpgI.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-fyo6wUoguOg8AI.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-Pyo6wUo9LOQ5wQ.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2o6wUosrrb8wc.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnPuo6wUoyJq9hAQ.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggp7b7AUoxcGpzAI.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9v2o6wUo-qKlDA.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1v2o6wUoquagcw.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1v2o6wUoqeWjygM.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2o6wUoh8b60gQ.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6J7b7AUoyuWWAw.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Yzg7AUo4PKNwgM.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggo3g7AUoiM7l7Qc.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0fOR7QUoxrCY2AU.mp4
+MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmvSR7QUoyNbK5wQ.mp4
+欧美MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_tya4gUo9PKb1QQ.mp4
+欧美MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4J2b4gUowKTr0AY.mp4
+欧美MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy5ac4gUo7aaGpAQ.mp4
+欧美MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghq2c4gUowI2L2AI.mp4
+舞曲,#genre#
+舞曲视频,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsMiThQYo2K-O9wQ.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzciThQYosK_E0QE.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2ciThQYonJO4pgc.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvsmThQYozPzOoAQ.mp4
+印度神曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjIPxhwYoufCDrgM.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkYPxhwYo2NOyswQ.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5YHxhwYorP3XqQY.mp4
+舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgru28hwYo9I37jAM.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4oLxhwYo1OOw_Qc.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3YLxhwYo-I3xigQ.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg24LxhwYowK6lUA.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj4PxhwYouNP3_AE.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghoPxhwYo1MrCBA.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghoPxhwYo9buQ_QI.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp4PxhwYo6eLmugQ.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoLxhwYorK_AugI.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguILxhwYojOq7zgY.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt4LxhwYo4IWt2gc.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtILxhwYolI2_GA.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtILxhwYo46Hw5QU.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6YHxhwYo--bAzAI.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj4LxhwYogMe80AY.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjILxhwYo9Z-U3wE.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkILxhwYo3urf9QE.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgge68hwYom6mChwU.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgru68hwYokLrdyAc.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgse68hwYoiN6MlgI.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1u68hwYoifOS2wQ.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0_28hwYogqqamAU.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2u28hwYogq2LwgU.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1u28hwYo6L3_0Ac.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggO68hwYo5qbjzgc.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgre28hwYovPDkNQ.mp4
+舞曲MV,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4_28hwYo8a7e1wU.mp4
+舞曲mv,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgje68hwYoirvtpAc.mp4
+舞曲mv,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp_68hwYojOGw8AU.mp4
+华语mv,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi9vx9wUogMjN7wI.mp4
+华语舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkt3x9wUosKqzkQU.mp4
+感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0__p4gUo3tvg8AY.mp4
+电音舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxeap4gUorKXMlAI.mp4
+感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOKp4gUo9bbBkAI.mp4
+俄罗斯夜店,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6Gg4gUo7pyY0QM.mp4
+俄罗斯新感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz_Sa4gUohOSn6gQ.mp4
+德国舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgneOa4gUoovj1pQM.mp4
+欧美新感djdj,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-d6a4gUon7WNogc.mp4
+欧美舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnqyM5gUo2Oe2wgU.mp4
+欧美舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5-Ks4gUoxIuY9QM.mp4
+欧美舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguuWs4gUoiNTngQM.mp4
+新感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg076s4gUo4MDtygI.mp4
+现场舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgrNiq4gUoxJr06AM.mp4
+欧美动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzr6n4gUowMTmrwY.mp4
+东欧动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-ben4gUo-OO4sgU.mp4
+新感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv_yl4gUouY29igM.mp4
+电音嗨曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8oml4gUozZjwkQM.mp4
+混音舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn9_h4gUowJGR1wY.mp4
+新感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmdqh4gUomOXg0wc.mp4
+欧美电音舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg27_h4gUo4KbldQ.mp4
+慢摇舞蹈,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_Lqh4gUo3PuurgQ.mp4
+电子舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9pyh4gUog7CFAg.mp4
+
+
+X👙,#genre#
+车展美女,https://video.pddugc.com/backbone-video/2022-03-21/ccb6e8d5a37fb6b9c610c0310f870cdd.mp4
+韩国美女1,https://video3.pddpic.com/tower-video/2022-03-20/71bba642d197d9eda186ba8f39228fcc.mp4.f30.mp4
+韩国美女2,https://video3.pddpic.com/tower-video/2022-03-21/c3b133d3eb2913578a6f693975c8836e.mp4.f30.mp4
+韩国美女3,https://video3.pddpic.com/tower-video/2022-03-20/77ee774de6cb70d4c7d503f1ce96a6e2.mp4.f30.mp4
+高清经典夜店DJ阿悠悠,https://vd4.bdstatic.com/mda-mh49vt5iqp3e7x8k/720p/h264/1628146884962346682/mda-mh49vt5iqp3e7x8k.mp4
+4K高清戴羽彤,https://vd4.bdstatic.com/mda-mf4bu6gfbtwbfqq5/720p/h264/1622881458967201202/mda-mf4bu6gfbtwbfqq5.mp4
+4K陈瑞,https://vd2.bdstatic.com/mda-metm2020tqf9wbct/720p/h264/1622213715848288375/mda-metm2020tqf9wbct.mp4
+4K高清岳云鹏,https://vd2.bdstatic.com/mda-meqitprx5ti8ed1a/720p/h264/1621948823045463060/mda-meqitprx5ti8ed1a.mp4
+LOOKTV,P2p://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts
+伤感凄美车载DJ经典版,https://vd4.bdstatic.com/mda-me70iy8327wyu3gp/720p/h264/1620433827317330462/mda-me70iy8327wyu3gp.mp4
+4K车载伤感DJ舞曲卢喃,https://vd3.bdstatic.com/mda-me49tjbyq5yt8ynu/720p/h264/1620197897045365799/mda-me49tjbyq5yt8ynu.mp4
+4K高清夜店经典DJ舞曲,https://vd4.bdstatic.com/mda-me42p2149u3w00xa/720p/h264/1620179745210912217/mda-me42p2149u3w00xa.mp4
+4K高清DJ夜店舞曲胡蜜丹,https://vd2.bdstatic.com/mda-kjpvz81f3fsb0m4v/sc/mda-kjpvz81f3fsb0m4v.mp4
+经典dj《站台》,https://vd2.bdstatic.com/mda-mju7bud6vwuub0nq/hd/cae_h264_nowatermark/1635484907845663119/mda-mju7bud6vwuub0nq.mp4
+爱的火焰,https://vd3.bdstatic.com/mda-kk0k3gbf7ga11fhn/sc/mda-kk0k3gbf7ga11fhn.mp4
+5首DJ伤感情歌,https://vd2.bdstatic.com/mda-nc35dbh31nj1y6dx/hd/cae_h264_delogo/1646496807682763009/mda-nc35dbh31nj1y6dx.mp4
+HOT,P2p://ns2.hellotvvod.com:9906/e97014fbd6f74d2f97777c213d6392fa.ts
+荷东dj,https://vd4.bdstatic.com/mda-kc2b015ijvbriss5/v1-cae/sc/mda-kc2b015ijvbriss5.mp4
+10首车载dj,https://vd3.bdstatic.com/mda-nbhgwre9iykh09ya/hd/cae_h264_delogo/1645187028018958500/mda-nbhgwre9iykh09ya.mp4
+精选《10首爆红神曲》,https://vdse.bdstatic.com//2ad38d3dce1204a321b40b3fcd63b9e4.mp4
+2021爆红神曲《精选15首》,https://vdse.bdstatic.com//3cb9d378cf895d0706affaec6dc0db4d.mp4
+爆红全网十首DJ车载,https://vd2.bdstatic.com/mda-nbt1wri3336d4cpq/hd/cae_h264_delogo/1646013367333481831/mda-nbt1wri3336d4cpq.mp4
+DJ,https://vdse.bdstatic.com//d8124cffbad76bd9d2aa74bd38565d3c.mp4
+HAPPY,P2p://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89.ts
+地上波,#genre#
+NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+TOKYO MX,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
+
+群馬テレビ (720p)地上波(関西),#genre#
+ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+KBS京都,https://code.vthanhtivi.pw/getlink/jptv/116/playlist.m3u8
+MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+NHK大阪 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+読売テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+関西テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+
+関西テレビBS,#genre#
+BS Japanext,https://code.vthanhtivi.pw/getlink/jptv/117/playlist.m3u8
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BS11,https://code.vthanhtivi.pw/getlink/jptv/157/playlist.m3u8
+BSよしもと,https://code.vthanhtivi.pw/getlink/jptv/108/playlist.m3u8
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS松竹東急,https://code.vthanhtivi.pw/getlink/jptv/125/playlist.m3u8
+BS釣りビジョン,https://code.vthanhtivi.pw/getlink/jptv/98/playlist.m3u8
+J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHK BS4K,https://code.vthanhtivi.pw/getlink/jptv/163/playlist.m3u8
+NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+TwellV (VT),https://code.vthanhtivi.pw/getlink/jptv/114/playlist.m3u8
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+日本映画専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
+
+ウェザーニュース (720p)CS,#genre#
+AXN 海外ドラマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+CNNj,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+FOX,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+エムオン！,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+キッズステーション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+ショップチャンネル,https://stream3.shopch.jp/HLS/master.m3u8
+スカイA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
+スーパー！ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ディスカバリー,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+ヒストリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+ミュージック・ジャパンTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+女性ch/LaLa,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+日テレジータス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
+映画・チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+時代劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
+東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+衛星劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+
