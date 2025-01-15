@@ -4944,7 +4944,39 @@ Travel XP,https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Ondemand China,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 Food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-
+🇭🇰港台,#genre#
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+大爱,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+林正英②,http://live.nctv.top/6688/yy.php?id=1453996620
+林正英①,http://live.nctv.top/6688/yy.php?id=1354932444
+香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+俄罗斯中文台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+越南ANTV电视台,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+新加坡英语电视台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
+俄罗斯IGITV电视台,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+TVPRO,http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+RUTV,http://92.50.128.180/utv/1358/index.m3u8
+ShansonTV(Opt-2),http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+TVBRICS(ENG),http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+TVBRICS(CN),http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
+漫威电影,http://jiaojirentv.top/2020/dy.php?id=6140589
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+RT,https://hls.rt.com/hls/rtdru360.m3u8
+KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 美国,#genre#
 
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -8200,7 +8232,24 @@ MNB,http://110.19.106.198:9981/stream/channelid/1665103169?ticket=
 Angel TV,http://110.19.106.198:9981/stream/channelid/283509486?ticket=
 
 明星电影1,#genre#
-
+笑傲江湖,https://lunbo.freetv.top/yy/1354930909
+天龙八部,http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8
+天龙八部,https://live.metshop.top/yy/1351814644
+鹿鼎记,https://lunbo.freetv.top/yy/1354658049
+鹿鼎记,https://lunbo.freetv.top/yy/28265277
+鹿鼎记,https://live.metshop.top/yy/28265277
+仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
+三国演义,https://lunbo.freetv.top/yy/1354930932
+三国演义,http://lunbo.freetv.top/yy/1354930932
+三国演义,https://live.metshop.top/huya/11602081
+三国演义,https://live.metshop.top/yy/1354936241
+新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
+新白娘子传奇,https://live.metshop.top/yy/1354490667
+封神榜,https://lunbo.freetv.top/yy/1353426319
+封神榜,https://live.metshop.top/yy/1353426319
+上海滩,https://live.metshop.top/yy/1382745184
+射雕英雄传,https://lunbo.freetv.top/yy/1354210357
+射雕英雄传,https://live.metshop.top/yy/40959929
 读心神探,https://lunbo.freetv.top/yy/1382736875
 封神榜 ,https://lunbo.freetv.top/yy/1353426319
 花千骨,https://lunbo.freetv.top/yy/1354943110
