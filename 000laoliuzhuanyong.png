@@ -4928,6 +4928,7 @@ CCTV1综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv02.m3u8?auth_key=
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
 📺国际频道,#genre#
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -4990,12 +4991,15 @@ TBS,http://143.244.60.30/TBS/index.m3u8
 RT,https://hls.rt.com/hls/rtdru360.m3u8
 KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 📺美国,#genre#
-
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 ABC News Live,https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 NBC News NOW,https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 LiveNOW from FOX,https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
 Scripps News,https://jmp2.uk/SamsungTVPlus/USBD3000073N.m3u8
+
+美国航天NASA1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美国航天NASA2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 NBC Bay Area News,https://jmp2.uk/SamsungTVPlus/USBC3200005A0.m3u8
 FOX Weather,https://jmp2.uk/SamsungTVPlus/USBD700003L7.m3u8
  BBC News,https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
