@@ -808,7 +808,7 @@ CCTV15,http://153.0.171.163:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&aut
 青海卫视,http://153.0.171.163:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://153.0.171.163:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 🎞️电影直播,#genre#
-疯狂的麦克斯,https://upos-szbyjkm8g1.bilivideo.com/upgcxcode/86/43/575714386/575714386_da3-1-416.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&oi=1729777262&uipk=5&deadline=1776345163&platform=pc&gen=playurlv3&og=hw&nbs=1&trid=0000494775cdf4d94a70b843a8904537716p&mid=0&os=bcache&upsig=f9c7f35f403ee86694e6b2d6009752a4&uparams=e,oi,uipk,deadline,platform,gen,og,nbs,trid,mid,os&cdnid=6590&bvc=vod&nettype=0&bw=460999&lrs=41&dl=0&f=p_0_0&allo_id=&qn_dyeid=&agrr=0&buvid=&build=0&orderid=0,3
+疯狂的麦克斯,https://vip.ffzy-play7.com/20230219/15347_9ceeae95/index.m3u8
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
